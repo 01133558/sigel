@@ -1,9 +1,5 @@
 streamlit
 pandas
-sqlite3
-datetime
-os
-dotenv
 openai
-hashlib
-re
+python-dotenv
+plotly
